@@ -5,11 +5,19 @@ VaM_Updater\Custom\Scripts\MeshedVR
 
 ## Keymotion
 
-Keymotion plugin can be added to any Atom that has force receivers in VAM. In this example, I am using a Sphere.
+Keymotion plugin can be used to add custom forces to create motion on Unity Assets and VAM Atoms. The forces are activated in different directions by pressing keyboard keys:
+
+[Spacebar] - Jump
+[Left Arrow] - Left
+[Right Arrow] - Right
+[Up Arrow] - Forward
+[Down Arrow] - Back
+
+The plugin can be added to any Atom that has force receivers in VAM. In this example, I am using a Sphere.
 
 ![image](https://github.com/user-attachments/assets/f099ab43-ce75-46e6-b7ba-71f4729aa808)
 
-The plugin can be added by Selecting Atom and navigating to the Plugins panel
+Add the plugin by Selecting Atom and navigating to the Plugins panel
 
 ![image](https://github.com/user-attachments/assets/c79ba866-6246-46ae-b289-9af8f9195fba)
 
