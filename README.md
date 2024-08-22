@@ -34,4 +34,5 @@ Set Bounciness and Bounce Combine to "Maximum" to notice bounce effects. This ca
 
 ### Demo
 
-https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDV0aDdnNnQ4bGpzMG5janc0ZGZmZWZobHNjYWp6ZHpma3psbXc5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pTgfFfJiGwQjZXWwA6/giphy.gif
+https://github.com/user-attachments/assets/dca38702-12b2-47c4-af05-c82630805fdb
+
