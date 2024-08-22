@@ -5,7 +5,7 @@ VaM_Updater\Custom\Scripts\MeshedVR
 
 ## Keymotion
 
-Keymotion plugin can be used to add custom forces to create motion on Unity Assets and VAM Atoms. The forces are activated in different directions by pressing keyboard keys:
+Keymotion plugin can be used to add custom forces to create motion on Unity Assets and VAM Atoms. Forces are Physics-based taking into account the Mass of the object, so Physics needs to be enabled on the object, with adequate forceFactor to move the mass. The forces are activated in different directions by pressing keyboard keys:
 
 [Spacebar] - Jump
 [Left Arrow] - Left
